@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/../StackQueue/StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoPointerSlidingWindow.iml" filepath="$PROJECT_DIR$/TwoPointerSlidingWindow.iml" />
     </modules>
   </component>
